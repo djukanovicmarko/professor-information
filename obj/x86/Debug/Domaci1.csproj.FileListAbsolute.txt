@@ -1,0 +1,8 @@
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\obj\x86\Debug\Domaci1.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci1\WindowsFormsApplication1\obj\x86\Debug\Domaci1.csproj.GenerateResource.Cache
